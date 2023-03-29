@@ -1,0 +1,11 @@
+{
+    "sshfs.configs": [
+        {
+            "name": "KonfigVenus",
+            "host": "sg-vt2.paramastore.my.id",
+            "port": 2022,
+            "username": "rak.ac7e9a27",
+            "password": "9FHnE!J3LGJ7"
+        }
+    ]
+}
